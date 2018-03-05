@@ -1,36 +1,39 @@
-a. Amazon is a website that dramatically changes our society. Amazon has several purpose. Originally it was created for the 
-purpose of selling books online, but as it becomes more popular they started selling almost everything. The main purpose of Amazon is to allow people
-to buy stuff online and have the items delivered to their front door. Amazon has also allow people to sell items on their website. The
-Computational artifacts shows how the process of online shopping works on Amazon.
+a. My computing innovation is called Amazon. Amazon is a website that's created to allow people to buy stuff on the internet. Originally it was created for 
+the purpose of selling books online, but as it becomes more popular, they started selling almost everything. The main purpose of Amazon is to allow people 
+to buy items online and have them delivered to their front door. My computational artifact shows the warehouse that Amazon uses to organize products, and 
+how they deliver them to people.
 
-b. I created my artifacts in google draw. I first look for several images that represent Amazon and its intended purpose. After I find the right images I save
-them into my folder and paste them all into my google draw page. I lay them out in the page properly so all images can be seen properly. After finish putting 
-all of the images together in the page I saved the file as PDF and upload it to Digital Portfolio.
+b. I created my artifacts in google draw. I first look for several images that represent Amazon and its intended purpose. After I find the right image, I copy 
+and paste them to my google draw file. I carefully lay them out on the page so all images can be seen properly. I use the tool that google draw has to create a 
+rectangle with yellow border and black background. I put a large bolded white text inside the rectangle to be the name of Amazon. After I finished putting all 
+of the images and text box together, I saved the file as a PDF and my artifact is finished.
 
-c. Amazon has several different harmful and beneficial effects. When people uses Amazon to purchase stuff online this becomes a huge benefit to society 
-because it saves a person time and prevent the problem of having to goto physical store. Amazon gives you a huge selection of product to choose from, this 
-allows people to easily find exactly what they want. The harmful effect of Amazon is that people are unable to see or touch the product physically before they 
-purchase it. According to the artical by Jerri Collins the harmful effect is that when a person shop online, there's a risk that a hacker might be able to steal 
-their credit card information. The privacy and security is a big issue with online shopping. Amazon dramatically changes our society. People are spending less 
-time shopping at physical store. According to Taylor Knight article, 17% of people with brick-and-mortar stores have seen store sales decrease by 5% or more 
-over the last two years. With people shopping online more often, physical store will slowly start decreasing. While Amazon brings a lot of advantages to society 
-one must be aware of cybercriminal and must be really careful when shopping online.
+c. Amazon has several different harmful and beneficial effects. When people uses Amazon to purchase stuff online, it can provide a huge benefit to society 
+because it saves a person's time and prevents the problem of having to go to physical store. Amazon also gives you a huge selection of product to choose from, 
+this allows people to easily find exactly what they want. According to the article by Tarun Mittal the harmful effect of online shopping is security issues, 
+Amazon keep track of their customer data such as name, phone number, address, and bank detail. If a hacker manage to gain access to those information, they can 
+wreak havoc on customer bank account. Amazon dramatically changes our society, with people shopping online more often, physical store will slowly start decreasing. 
+While Amazon brings a lot of advantages to society, one must be aware of cybercriminal and must be really careful when shopping online.
 
-d. According to Bernard Marr article, Amazon has a big data that it gathers from its million customer transactions. Everytime someone made a purchase on Amazon, 
-a data is created about the type of items that the person is buying. Amazon uses these data to monitor their customer behavior and their buying habit. These data 
-helps them understand what's relevant to the customer so they can advertise the right product to the right customer. Some of the data security concern in Amazon 
-is privacy. Many customers are uncomfortable having their personal information collected such as their purchase history. With Amazon having access to our personal 
-data, they can see which item are popular and which aren't. They can also see which items a certain group of people would buy which is pretty invasive. It is very 
-difficult to avoid your data being collected unless you're willing to buy stuff at a physical store with physical cash.
+d. According to Jennifer Wills's article, Amazon collect, store, and process the personal information of their customer. As stated in Jennifer Wills's article, 
+Amazon analyzes what items you purchased previously, what is in your online shopping cart or on your wish list, which products you reviewed and rated, and what 
+items you search for most. These data helped Amazon determine which items are popular and also helped them to recommend the right items to a specific customer. 
+While Amazon collecting and analyzing customer personal information is a great way to increase their customer satisfaction and build company loyalty, it also 
+have a serious privacy concern. Many customers are uncomfortable having their personal information collected and stored. With the amount of information that 
+Amazon knows about their customers, it may literally feel like stalking.
 
-e. Bernard Marr. "How Amazon Uses Big Data to Boost Its Performance" June 11, 2014.
+e. Anamika S "Top 10 Benefits of Online Shopping That Make Your Life Easy" June 12, 2017
 
-https://www.smartdatacollective.com/how-amazon-uses-big-data-boost-its-performance/
+https://toughnickel.com/frugal-living/Online-shopping-sites-benefits
+
+Tarun Mittal. "Common problems faced by customers while shopping online" April 3rd, 2017
+
+https://yourstory.com/2017/04/common-problems-online-shopping/
 
 Jerri Collins. "The Pros and Cons of Shopping Online" Updated August 20, 2017
 
 https://www.lifewire.com/shopping-online-pros-and-cons-3482632
 
-Taylor Knight. "The Amazon Effect: How Brick-and-Mortar Sales Have Trended the Past 2 Years" July 13, 2017
+Jennifer Wills. "7 Ways Amazon Uses Big Data to Stalk You (AMZN)" September 7, 2016
 
-http://www.mytotalretail.com/article/the-amazon-effect-how-brick-and-mortar-sales-have-trended-the-past-2-years/
+https://www.investopedia.com/articles/insights/090716/7-ways-amazon-uses-big-data-stalk-you-amzn.asp
